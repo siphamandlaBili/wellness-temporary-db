@@ -81,7 +81,7 @@
       {
         "id": "807f",
         "eventCode": "VT-20250403-3017",
-        "clientName": "yguhijkolp[;",
+        "clientName": "Aflumed health care",
         "clientEmail": "azilebili@gmail.com",
         "clientPhone": "0640986398",
         "eventName": "spa day",
@@ -272,6 +272,15 @@
         "additionalNotes": "35",
         "status": null,
         "role": "user"
+      }
+    ],
+    "patients":[
+      {
+        "id": "9901035187087",
+        "name": "Thando",
+        "surname": "Dlamini",
+       "email": "thando.dlamini@example.com",
+        "questionnaire": "Completed"
       }
     ]
   }

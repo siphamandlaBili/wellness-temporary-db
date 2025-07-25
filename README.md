@@ -1,1 +1,1 @@
-temporal database with dummy date to model for the front of wellnes
+temporal database with dummy date to model for the front of wellness events
